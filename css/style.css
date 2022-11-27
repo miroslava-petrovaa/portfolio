@@ -1,0 +1,343 @@
+		#page-margin-padding {
+			margin: 20px 100px;
+			background-color: white;
+			border-radius: 30px;
+			border: 0.5px solid black;
+			/*opacity: 0.8;*/
+
+			/*padding-left: 40px;
+			padding-right: 40px;*/
+
+		}
+
+		h1 {
+			background-color: coral;
+			font-family: Arial;
+			font-size: 40px;
+			text-align: center;
+			border-radius: 20px;
+		}
+		
+		ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+
+		}
+		li {
+			display: inline;
+			float: left;
+			/*border-right: 1px solid #bbb;*/
+		}
+
+		header {
+			background-color: black;
+		}
+
+/*		.navbar-header {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+
+		}*/
+
+		.karta {
+			margin-left: 50px;
+			margin-right: 50px;
+		}
+		
+		nav ul li {
+			display: inline-block;
+			padding-left: 10px;
+		}
+
+		nav {
+			margin: auto;
+			max-width: 100%;
+			font-size: 20px;
+			padding-left: 500px;
+			height: 40px;
+			background-color: black;
+			border-bottom: 1px solid white;
+		}
+
+		a {
+			display: inline-block;
+		
+			text-decoration: none;
+		
+		}
+
+		.home-page-image {
+			
+			display: inline;
+			margin: 30px;
+
+		}
+		.w3-content {
+			padding: 20px;
+
+		}
+
+		h2 {
+			font-weight: bold;
+		}
+
+
+		.home1 {
+			color: white;
+			font-size: 24px;
+			font-family: Arial;
+			background: black;
+			font-weight: bold;
+
+
+		}
+		.home2 {
+			color: white;
+			font-size: 24px;
+			font-family: Arial;
+			background: black;
+			font-weight: bold;
+
+
+
+
+		}
+		.home3  {
+			color: white;
+			font-size: 24px;
+			font-family: Arial;
+			background: black;
+			font-weight: bold;
+
+
+
+
+		}
+		.home4 {
+			color: white;
+			font-size: 24px;
+			font-family: Arial;
+			background: black;
+			font-weight: bold;
+
+
+		}
+
+		.submit {
+			padding: 10px;
+			background-color: orange;
+			margin: 30px;
+			cursor: pointer;
+			font-size: 17px;
+			font-family: Arial;
+		}
+		.home4 a {
+			float: right;
+		}
+		body {
+			background-image: url(https://media.istockphoto.com/photos/forest-wooden-table-background-summer-sunny-meadow-with-green-grass-picture-id1353553203?b=1&k=20&m=1353553203&s=170667a&w=0&h=QTyTGI9tWQluIlkmwW0s7Q4z7R_IT8egpzzHjW3cSas=);
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+		}
+		h4 {
+			font-family: Arial;
+		}
+		.videoPlayer {
+			display: inline;
+			padding-left: 30px;
+			padding-right: 30px;
+		}
+		.youtubeChannel {
+			cursor: pointer;
+			background: red;
+			font-size: 17px;
+			font-family: Arial Black;
+			padding: 10px;
+			border: 1px solid white;
+			margin-left: 30px;
+			
+
+			
+		}
+		.animateBanner {
+			background: url(https://dariknews.bg/novini/sviat/v-odrin-otvariat-petychniia-pazar-ochakvat-masovo-klienti-ot-bylgariia-2272520);
+			transition: right 1.5s;
+			transition-property: right;
+			transition-duration: 1.5s;
+			transition-timing-function: ease;
+			transition-delay: 0s;
+			padding: 35px;
+
+
+		}
+		.w3-content {
+			margin-bottom: 100px;
+		}
+
+
+		/*.slider {
+			display: none;
+			/*padding: 50px 0 100px 0;*/
+
+/*		}
+		.button-left {
+			border: 5px solid white;
+			width: 15%;
+			padding: 10px;
+			background: #95a831;
+			font-family: Arial;
+			cursor: pointer;
+
+		}
+		.button-right {
+			border: 5px solid white;
+			width: 15%;
+			padding: 10px;
+			background: #95a831;
+			font-family: Arial;
+			cursor: pointer;
+			margin: 0px 0px 100px 150px;*/*
+		
+		.zaglavie-slider {
+			font-family: Arial;
+			margin: 0px;
+		}
+		.opisanie-slider {
+			font-family: Arial;
+			
+		}
+
+		nav ul li a:hover {
+			display: inline-block;
+			padding-left: 10px;
+			padding-right: 10px;
+			background-color: #47453f;
+		}
+		.reserved {
+			padding-left: 900px;
+			margin-top: 30px;
+			color: white;
+		}
+		.index-h2 {
+			padding-left: 30px;
+		}
+		.buletin {
+			padding-left: 30px;
+			margin: 30px;
+		}
+		.home-page-youtube-h2 {
+			padding-left: 30px;
+		} 
+
+		.div-bottom {
+			background-color: #30300c;
+			padding: 15px 0 5px;
+			border-radius: 15px;
+		}
+		.social-media-facebook {
+			color: white;
+			margin: 0 0 5px;
+			float: right;
+			padding-right: 10px;
+			width: 50%;
+			text-align: center;
+
+		}
+
+		.img-socialmedia {
+			width: 30px;
+			height: 30px;
+		}
+
+		.moto {
+			padding-left: 30px;
+			padding-right: 30px;
+			text-align: center;
+		}
+		.dropdown {
+			display: inline-block;
+			position: relative;
+		}
+		.dropdown-options {
+			display: none;
+			position: absolute;
+			overflow: auto;
+
+		}
+		.dropdown:hover .dropdown-options {
+			display: block;
+		}
+		.dropdown-options {
+         display: none;
+         position: absolute;
+         overflow: auto;
+         background-color: black;
+         border-radius:5px;
+         box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+         color: white;
+         font-family: Arial;
+
+         }
+         #inputSum, #convertedSum {
+         	margin: 30px;
+
+         }
+         
+         .lira {
+         	padding-left: 30px;
+         }
+         .lev {
+         	padding-left: 30px;
+         }
+         .valuten {
+         	padding-left: 30px;
+         }
+
+         .contacts, .pazaruvane {
+         	color: white;
+         	font-family: Arial;
+         	font-size: 18px;
+         	padding-left: 30px;
+         }
+         .socialmedia {
+         	color: white;
+         	font-family: Arial;
+         	font-size: 18px;
+         	padding-left: 30px;
+         	float: none;
+         }
+         .fb-group {
+         	color: white;
+
+         }
+         .up-page {
+         	background: #0c1e21;
+         	color: white;
+         	margin: 0;
+         	padding: 0;
+         	box-sizing: border-box;
+         	display: flex;
+         }
+         .container-up {
+         	justify-content: space-between;
+         	align-items: center;
+         	display: flex;
+         }
+         .left-side {
+         	display: flex;
+         	align-items: center;
+         	padding: 5px 0;
+         }
+         .image-socialmedia {
+         	/*border: 1px solid #ddd;*/
+            border-radius: 4px;
+            padding: 3px;
+/*            padding-left: 20px;*/
+            width: 30px;
+            margin-left: 30px;
+         }
+
+
